@@ -11,7 +11,7 @@ cout: output (1-bit) - activated if the operation produces a carry
 
 ## ALU behaviour
 
-| Opcode        | Operation      | Cool         |
+| Opcode        | Operation      | Result       |
 |:-------------:|:--------------:| :-----------:|
 | op = 000      | addition       | out = a + b  |
 | op = 001      | subtraction    | out = a - b  |
